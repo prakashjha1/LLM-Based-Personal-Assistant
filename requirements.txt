@@ -1,0 +1,4 @@
+streamlit==1.25.0
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+ctransformers==0.2.27
